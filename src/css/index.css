@@ -1,6 +1,6 @@
 body {
-  background-image: radial-gradient(white, 1%, transparent 4%),
-  radial-gradient(yellow, 2%, transparent 4%);
+  background-image: url("../background2.jpg");
+  font-family: 'Star Jedi';
   background-color: black;
   background-position: 0 0, 50px 50px;
   background-size: 100px 100px;
